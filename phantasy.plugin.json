@@ -1,0 +1,21 @@
+{
+  "name": "@phantasy/plugin-instagram",
+  "version": "2.0.1",
+  "description": "Instagram publishing integration plugin for Phantasy companions.",
+  "displayName": "Instagram",
+  "workspace": "business",
+  "extensionKind": "integration",
+  "adminSurface": {
+    "tabId": "instagram",
+    "label": "Instagram",
+    "section": "business",
+    "workspace": "business",
+    "kind": "generic",
+    "keywords": [
+      "instagram",
+      "social",
+      "creator",
+      "content"
+    ]
+  }
+}
